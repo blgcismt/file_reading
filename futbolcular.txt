@@ -1,0 +1,9 @@
+Fernando Muslera,Galatasaray
+Atiba Hutchinson,Beşiktaş
+Simon Kjaer,Fenerbahçe
+Alex de Souza,Fenerbahçe
+Felipe Melo,Galatasaray
+Alex Texieara,Beşiktaş
+Altay Bayındır,Fenerbahçe
+Gökhan Töre,Beşiktaş
+Didier Drogba,Galatasaray
